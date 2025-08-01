@@ -1,16 +1,24 @@
-## Hi there 👋
+<h1 align="center">Hey, I'm Abhishek 👋</h1>
 
-<!--
-**its-abhishek-sinse/its-abhishek-sinse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌐 Aspiring SOC Analyst | Threat Hunter | Ethical Hacker  
+⚔️ Currently building hands-on labs using Parrot OS & Security Onion  
+📚 Learning: Networking • SIEM • Threat Intelligence  
+📂 Portfolio: [View My SOC Analyst Reports](https://drive.google.com/...)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔧 Tools I Use:
+- 🐍 Python (for automation & scripts)
+- 🧠 TryHackMe & Blue Team Labs
+- 🛡️ Security Onion | Suricata | Wireshark | Kibana
+- 🔎 Nmap | Zeek | Elastic Stack
+
+---
+
+📌 **Current Projects**
+- [ ] Daily SOC Lab Challenges
+- [ ] GitHub Incident Report Series
+- [ ] Resume & Portfolio Polish
+
+📫 Let's connect on [LinkedIn](https://www.linkedin.com/in/...)
+
